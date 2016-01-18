@@ -1,7 +1,7 @@
 name: martinpauer
 favicon: null
 layout_spectrum: 0.28214
-typography_spectrum: 0.09310523699969053
+typography_spectrum: 0.38691
 title: martinpauer
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#E376B7'
   brandStrength: 0.375
   lightness: 0.37284864531829953
-  saturation: 0.16708488017320633
+  saturation: 0.8125
   rhythmicContrast: 0.2251563905738294
 purpose: []
